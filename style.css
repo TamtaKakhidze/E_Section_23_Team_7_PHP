@@ -1,0 +1,32 @@
+/* Hover effect for cards */
+.box:hover, .detail-box:hover {
+    /* box-shadow: 10px 10px #00c6a9; */
+    background: linear-gradient(to right, #FFFFFF, #D9F2EF, #ADE6DD, #82D9CB, #56CDC0);
+    border-radius: 10px;
+  }
+
+/* created to avoid double hover inside doctor's part */
+  /* .box:hover .detail-box {
+    pointer-events: none;
+}*/
+
+.detail-box:hover {
+    background: none;
+}
+
+.social_box a {
+    /* display: inline-block; */
+    transition: transform 0.3s ease;
+  }
+  
+  .social_box a:hover {
+    transform: scale(1.5);
+  }
+
+.info_section .info_contact a:hover,
+.container .contact_nav a:hover {
+    color: #00c6a9;
+  }
+
+ 
+  
