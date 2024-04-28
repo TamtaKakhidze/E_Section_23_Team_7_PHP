@@ -1,4 +1,3 @@
-
 <?php function doctorCards ($doctorImage, $doctonName, $doctorPosition) {
     return "
         <div class='item'>

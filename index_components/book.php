@@ -18,17 +18,17 @@
               <div class="form-group col-lg-4">
                 <label for="inputDoctorName">Doctor's Name</label>
                 <select name="doctorName" class="form-control wide" id="inputDoctorName">
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
+                  <option value="Normal distribution ">John Watson </option>
+                  <option value="Normal distribution ">Gregory House </option>
+                  <option value="Normal distribution ">Heinz Doofenshmirtz </option>
                 </select>
               </div>
               <div class="form-group col-lg-4">
                 <label for="inputDepartmentName">Department's Name</label>
                 <select name="departmentName" class="form-control wide" id="inputDepartmentName">
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
+                  <option value="Normal distribution ">Cardiology </option>
+                  <option value="Normal distribution ">Nephrology </option>
+                  <option value="Normal distribution ">Neurology </option>
                 </select>
               </div>
             </div>
