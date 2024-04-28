@@ -28,5 +28,11 @@
     color: #00c6a9;
   }
 
+
+  .carousel {
+    overflow: hidden;
+    /* Other carousel styles... */
+  }
+  
  
   
