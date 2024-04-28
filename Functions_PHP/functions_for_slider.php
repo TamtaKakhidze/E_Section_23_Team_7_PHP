@@ -159,3 +159,5 @@ function playSliders($sliders)
   </div>
 </div> -->
 <!-- end of Carousels -->
+
+<!-- https://www.w3schools.com/php/php_arrays_associative.asp -->

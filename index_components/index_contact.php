@@ -12,7 +12,7 @@
         <!-- Form -->
           <div class="form_container">
             <!-- Inputs -->
-            <form action="">
+            <form action="./form_submitted.php">
               <div>
                 <input type="text" placeholder="Full Name" />
               </div>

@@ -13,8 +13,8 @@
         </div>
         <!-- end of logo -->
 
-        <!-- info form -->
-        <div class="info_form">
+        <!-- Subscribe form -->
+        <!-- <div class="info_form">
           <form action="">
             <input type="email" placeholder="Your email">
             <button>
@@ -22,8 +22,20 @@
             </button>
           </form>
         </div>
+      </div> -->
+      <!-- Subscribe form -->
+      <div class="info_form">
+        <form action="" method="get">
+          <input type="email" name="email" placeholder="Your email">
+          <button type="submit">
+            Subscribe
+          </button>
+        </form>
       </div>
-      <!-- end of form -->
+
+<!-- end of Subscribe form -->
+
+      <!-- end of Subscribe form -->
 
       <div class="info_bottom layout_padding2">
         <div class="row info_main_row">
