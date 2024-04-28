@@ -1,3 +1,6 @@
+<?php echo "successful booking!"; ?>
+
+
 <?php include "index_components/head.php"; ?>
 
   <!-- book section -->
